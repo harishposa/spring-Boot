@@ -1,0 +1,23 @@
+*{
+	margin:5px;
+	padding:5px;
+}
+body{
+/* 	background-color:#cccccc */
+   background:image1.jpg;
+}
+header{
+	text-align:center;
+	margin-bottom:0px;
+	background-color:#ababab;
+}
+section{
+	margin-bottom:0px;
+	margin-top:0px;
+/* 	background-color:#ffffff; */
+	min-height: 350px;
+}
+footer{
+	margin-top:15px 15px 15px 15px;
+	background-color:#ababab;
+}
